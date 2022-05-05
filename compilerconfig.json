@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/custom.css",
+    "inputFile": "wwwroot/css/custom.scss",
+    "useNodeSass": true,
+    "options": {
+      "includePath": "node_modules/@syncfusion"
+    }
+  }
+]
